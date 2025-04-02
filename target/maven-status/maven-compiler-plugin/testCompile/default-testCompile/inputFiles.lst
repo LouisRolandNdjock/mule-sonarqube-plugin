@@ -1,0 +1,5 @@
+/opt/app/CICD/jenkins/workspace/mule_soft_plugin/mule-sonarqube-plugin/src/test/java/com/mulesoft/services/tools/validation/Mule4Test.java
+/opt/app/CICD/jenkins/workspace/mule_soft_plugin/mule-sonarqube-plugin/src/test/java/com/mulesoft/services/protocols/classpath/Handler.java
+/opt/app/CICD/jenkins/workspace/mule_soft_plugin/mule-sonarqube-plugin/src/test/java/com/mulesoft/services/tools/validation/RuleConsumer.java
+/opt/app/CICD/jenkins/workspace/mule_soft_plugin/mule-sonarqube-plugin/src/test/java/com/mulesoft/services/tools/validation/Mule3Test.java
+/opt/app/CICD/jenkins/workspace/mule_soft_plugin/mule-sonarqube-plugin/src/test/java/com/mulesoft/services/tools/validation/Validator.java
